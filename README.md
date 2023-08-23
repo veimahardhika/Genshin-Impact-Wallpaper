@@ -1,6 +1,6 @@
 <div align="center">
 
-# Honkai: Star Rail Wallpaper
+# Genshin Impact Wallpaper
 
 This repository contains a collection of Genshin Impact Wallpaper mostly from Press Kit
 
